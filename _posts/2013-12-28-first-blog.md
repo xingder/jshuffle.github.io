@@ -5,6 +5,30 @@ categories:
 tags: 
 ---
 
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include html_meta %}
+    <title>How to use MathJax in Jekyll generated Github pages -- Haixing Hu's Homepage</title>
+    {% if page.use_math %}
+      {% include mathjax_support %}
+    {% endif %}
+  </head>
+  <body>
+    {% include navigation_bar %}
+    <div class="container-narrow">
+      <div class="content">
+        {{ content }}
+      </div>
+      <hr/>
+      {% include footer %}
+    </div>
+    {% include JB/analytics %}
+  </body>
+</html>
+```
+
 测试用。
 
 代码块：
