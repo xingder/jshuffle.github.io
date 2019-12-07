@@ -18,6 +18,9 @@ if debug:
 公式块：
 
 
+
+
+
 $$
 \text{for OTP : $\qquad$ if }\quad E(k,\:m)=c\\
 \begin{align}
@@ -27,6 +30,10 @@ k &= m\oplus c
 \\
 \#\{\;k \in \mathscr K : \quad E(k,\:m)=c \;\}=1 \quad \forall m,\:c
 $$
+
+
+
+
 
 
 
