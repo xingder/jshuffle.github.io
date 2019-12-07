@@ -5,29 +5,10 @@ categories:
 tags: 
 ---
 
-```html
-<!DOCTYPE html>
-<html>
-  <head>
-    {% include html_meta %}
-    <title>How to use MathJax in Jekyll generated Github pages -- Haixing Hu's Homepage</title>
-    {% if page.use_math %}
-      {% include mathjax_support %}
-    {% endif %}
-  </head>
-  <body>
-    {% include navigation_bar %}
-    <div class="container-narrow">
-      <div class="content">
-        {{ content }}
-      </div>
-      <hr/>
-      {% include footer %}
-    </div>
-    {% include JB/analytics %}
-  </body>
-</html>
-```
+<script type="text/javascript" async
+src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js? 
+config=TeX-MML-AM_CHTML"
+</script>
 
 测试用。
 
