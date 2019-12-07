@@ -1,9 +1,13 @@
 <!DOCTYPE html>
 <html>
- {% include head.html %}
  <body>
  {% include nav.html %}
-
+ {% include head.html %}
+    {% if page.usemathjax %}
+<script type="text/javascript" async
+ src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+{% end if %}
  {{ content }}
  {% include footer.html %}
  </body>
