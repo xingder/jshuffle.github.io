@@ -1,4 +1,4 @@
-markdown: redcarpet
+markdown: kramdown
 permalink: /:year/:month-:day-:title.html
 destination: _site
 name: JShuffle    #将会显示在左上角
