@@ -3,8 +3,8 @@ layout: post
 title: matplotlib绘图逻辑(上)
 subtitle: '详细记录我所理解的matplotlib'
 date: 2019-9-30
-categories: data visualization
-tags: data visualization
+categories: dataVisualization
+tags: dataVisualization
 
 ---
 
