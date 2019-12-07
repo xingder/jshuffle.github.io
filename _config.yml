@@ -10,3 +10,4 @@ paginate: 20   #每页文章个数
 paginate_path: "/blog/page:num/" #此项不可更改
 myurl: jshuffle.github.io  #此url指向你的首页
 baseurl: "" #如果是项目pages，填写为"/<项目名>"
+usemathjax: true
