@@ -1,10 +1,8 @@
-VeekXT 的个人主页
+Personal homepage <https://jshuffle.github.io/>
 
-url: <http://gh.veekxt.com>
+forked from ![here](https://github.com/veekxt/veekxt.github.io)
 
-记录一些乱七八糟的东西
-
-目录结构：
+Content(after):
 
 ```
 /
