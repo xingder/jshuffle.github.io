@@ -1,13 +1,13 @@
 markdown: kramdown
 permalink: /:year/:month-:day-:title.html
 destination: _site
-name: JShuffle    #将会显示在左上角
-myname: Shen Zijie   #你的名字，显示在页脚和文章开始
-email: szjshuffle@foxmail.com #邮箱
-github: jshuffle   #github账号，用于构建github链接
-project: jshuffle.github.io #github上的仓库名
+name: Xingder    #将会显示在左上角
+myname: Ren Xingde   #你的名字，显示在页脚和文章开始
+email: xingder@bucm.edu.cn#邮箱
+github: xingder   #github账号，用于构建github链接
+project: xingder.github.io #github上的仓库名
 paginate: 20   #每页文章个数
 paginate_path: "/blog/page:num/" #此项不可更改
-myurl: jshuffle.github.io  #此url指向你的首页
+myurl: xingder.github.io  #此url指向你的首页
 baseurl: "" #如果是项目pages，填写为"/<项目名>"
 usemathjax: true

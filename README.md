@@ -1,4 +1,4 @@
-Personal homepage <https://jshuffle.github.io/>
+Personal homepage <https://xingder.github.io/>
 
 forked from [here](https://github.com/veekxt/veekxt.github.io)
 
@@ -8,4 +8,4 @@ Some modification are made after forked:
 
 2.added mathjax.js module and mathematical formula are thus supported.
 
-JShuffle 2019.12
+xingder 2019.12
