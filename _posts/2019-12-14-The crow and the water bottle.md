@@ -12,6 +12,7 @@ tags: 英语
 ![](https://cn.bing.com/th?id=OIP.kBsoav2FXKPP7m4q2UBcXwHaGy&pid=Api&rs=1)
 
 It was a scorching hot summer day. One crow was very thirsty. "I'm so thirsty." The thirsty crow roamed around looking for water. After flying for a long time, the crow found a water bottle in one of the farmer's yard. The crow was so happy that he was able to have a drink.
+<p onclick="this.innerHTML='谢谢！'">click this to get translation</p>
 
 The crow put his beak into the bottle. However, because the bottle was so long, he was not able to reach the water. The crow was exhausted.
 
@@ -21,4 +22,4 @@ The crow flew round and round the farmer's yard, and thought. "Sure, that's what
 
 With all his strength, the crow started picking up stones. "One, two." He did this several times until the bottle was filled with stones. Then the crow drank a lot of water. Finally, the crow had enough strength to fly again.
 
-<h1 onclick="this.innerHTML='谢谢！'">请点击此文本！</h1>
+
