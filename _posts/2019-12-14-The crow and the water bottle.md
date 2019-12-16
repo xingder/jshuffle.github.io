@@ -22,4 +22,22 @@ The crow flew round and round the farmer's yard, and thought. "Sure, that's what
 
 With all his strength, the crow started picking up stones. "One, two." He did this several times until the bottle was filled with stones. Then the crow drank a lot of water. Finally, the crow had enough strength to fly again.
 
+<script type="text/javascript">
+ 
+    function display(id){  
+        var traget=document.getElementById(id);  
+        if(traget.style.display=="none"){  
+            traget.style.display="";  
+        }else{  
+            traget.style.display="none";  
+      }  
+   }  
+</script>
+
+
+<input type="submit" value="在线支付" οnclick="display('lb')">
+<div id="lb" style="display:none">
+	<font>div属性：style ="display:none" 默认隐藏div</font>
+</div>
+
 
