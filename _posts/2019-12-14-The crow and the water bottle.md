@@ -20,3 +20,5 @@ The crow put his beak into the bottle. However, because the bottle was so long, 
 The crow flew round and round the farmer's yard, and thought. "Sure, that's what I will do." The crow had an idea.
 
 With all his strength, the crow started picking up stones. "One, two." He did this several times until the bottle was filled with stones. Then the crow drank a lot of water. Finally, the crow had enough strength to fly again.
+
+<h1 onclick="this.innerHTML='谢谢！'">请点击此文本！</h1>
