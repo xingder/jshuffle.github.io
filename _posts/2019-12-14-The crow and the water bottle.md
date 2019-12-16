@@ -41,3 +41,24 @@ With all his strength, the crow started picking up stones. "One, two." He did th
 </div>
 
 
+<script type="text/javascript">
+window.οnlοad=function(){
+  var obt=document.getElementById("bt");
+  var odiv=document.getElementById("thediv");
+  obt.οnclick=function(){
+    if(odiv.style.display=="none"){
+      odiv.style.display="block";
+      obt.value="隐藏模块";
+    }
+    else{
+      odiv.style.display="none";
+      obt.value="显示模块";
+    }
+  }
+}
+</script>
+<body>
+<input type="button" id="bt" value="显示模块"/>
+<div id="thediv" style="display:none">  1111</div>
+
+
