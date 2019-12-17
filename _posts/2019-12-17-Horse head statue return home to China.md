@@ -11,8 +11,22 @@ tags: 英语学习
 
 
 
-#note 
-##vocabulary (Contains only the meaning that appeared in the context)
+# Note 
+## Vocabulary (contains only the meaning that appeared in the context)
+- <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
+1. Donald Trump is a magnate in real estate.
+2. Elon Musk is a magnate in electric vehicle industry.
+3. Bill Gates is one of the richest magnates in the world. 
+
+
+
+
+<table><tr>
+<td><img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg " width="150" border=0></td>
+<td><img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" width="250" border=0></td>
+<td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="300" border=0></td>
+</tr></table>
+___
 - <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
 1. Donald Trump is a magnate in real estate.
 2. Elon Musk is a magnate in electric vehicle industry.
@@ -28,4 +42,8 @@ tags: 英语学习
 <td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="300" border=0></td>
 </tr></table>
 ___
-- lush
+
+
+
+
+
