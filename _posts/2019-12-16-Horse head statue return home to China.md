@@ -10,7 +10,7 @@ tags: 英语学习
 ---
 # Note 
 ## Vocabulary (contains only the meaning that appeared in the context)
-####<a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
+#### <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
 - 1.Donald Trump is a magnate in real estate.
 <div>
 <img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" height="300px" alt="图片说明" > </div>
@@ -26,7 +26,7 @@ ____
 <img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" height="100px" alt="图片说明" >
 </div>
 ___
-### <a href="http://www.iciba.com/lush" target="_blank">lush</a> ：Lush fields or gardens have a lot of grass and plants.
+#### <a href="http://www.iciba.com/lush" target="_blank">lush</a> ：Lush fields or gardens have a lot of grass and plants.
 - The young man lives in a lush green countryside.
 <div>
 <img src="http://s0.geograph.org.uk/geophotos/05/17/50/5175037_5a913cf0.jpg" height="200px" alt="图片说明" > </div>
