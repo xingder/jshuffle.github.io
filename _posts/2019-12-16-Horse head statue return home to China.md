@@ -10,6 +10,7 @@ tags: 英语学习
 ---
 # Note 
 ## Vocabulary (contains only the meaning that appeared in the context)
+____
 #### <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
 - 1.Donald Trump is a magnate in real estate.
 <div>
@@ -42,3 +43,20 @@ ____
 <img src="https://cn.bing.com/th/id/OIP.m9nxvssEdRFbsyAPhcTDLwHaFc?pid=Api&rs=1" height="200px" alt="图片说明" >
 </div>
 ___
+#### <a href="http://www.iciba.com/pavilion" target="_blank">pavilion</a> ：A pavilion is a ornamental building in a park or garden.
+- AT the centre of the lake，there is a pavilion..
+<div>
+<img src="https://cn.bing.com/th/id/OIP.NOvlvZrpucXa3aBzBH7dLwHaE8?pid=Api&rs=1" height="200px" alt="图片说明" > </div>
+___
+- Once again look at waterside pavilion，still romantic.
+<div>
+<img src="https://cn.bing.com/th/id/OIP.rm4U2-lTBTz5-Ge0xFBq2QHaEk?pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+____
+- There is a bat pavilion in our campus.
+
+<div>
+<img src="https://cn.bing.com/th/id/OIP.GHX2jU0jN10oHUiafsm8VQHaE8?pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+___
+
