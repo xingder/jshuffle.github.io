@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 ---
 layout: post
 title: 'Horse head statue returns home to China'
@@ -37,9 +38,9 @@ ___
 
 
 <table><tr>
-<td><img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" width="200"/></td>
-<td><img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" width="250"/></td>
-<td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="300"/></td>
+<td><img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" width="100"/></td>
+<td><img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" width="150"/></td>
+<td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="100"/></td>
 </tr></table>
 ___
 
