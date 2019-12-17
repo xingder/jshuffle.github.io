@@ -41,3 +41,7 @@ ___
 <td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="300" border=0></td>
 </tr></table>
 ___
+
+
+
+![Pandao editor.md](https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg "Pandao editor.md")![Pandao editor.md](https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg "Pandao editor.md")
