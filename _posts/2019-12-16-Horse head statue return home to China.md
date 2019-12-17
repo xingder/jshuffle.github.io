@@ -59,4 +59,37 @@ ____
 <img src="https://cn.bing.com/th/id/OIP.GHX2jU0jN10oHUiafsm8VQHaE8?pid=Api&rs=1" height="200px" alt="图片说明" >
 </div>
 ___
+#### <a href="http://www.iciba.com/rampage" target="_blank">rampage</a> ：When people or animals rampage through a place，they rush about there in a wild or violent way，causing damage and destruction.
+- King Kang rampage through the city，destroying buildings.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.z4ewHcO_BYvVGFyFuvfW0wHaDt&pid=Api&rs=1" height="200px" alt="图片说明" > </div>
+___
+- Hundreds of youths rampage through the town，shop windows were smashed and cars were overturned.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.mzt-ufEV_lrZdz003B8gawAAAA&pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+____
+- The rampage is being called deadliest shooting incident in US history.
+
+<div>
+<img src="http://abcnews.go.com/images/US/ap_hollywood_shooting_scene_jef_111213_wblog.jpg" height="200px" alt="图片说明" >
+</div>
+___
+#### <a href="http://www.iciba.com/zodiac" target="_blank">zodiac</a> ：The zodiac is a diagram used by astrologers to represent the positions of the planets and stars. It is divided into twelve sections, each of which has its own name and symbol. The zodiac is used to try to calculate the influence of the planets, especially on someone's life.
+- What zodiac sign do you have?
+<div>
+<img src="https://i0.wp.com/angelorum.co/wp-content/uploads/2015/07/12-zodiac-signs-with-7-classical-planetary-rulers-astrology.jpg" height="200px" alt="图片说明" > </div>
+___
+- The Chinese zodiac,or Shengxiao,is composed of 12 animals，each of which symbolizes lunar year.
+<div>
+<img src="https://cn.bing.com/th/id/OIP.hkwkGtMLsByttmk8f-1j3wHaFo?pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+____
+- Even a poor woman in this zodiac will struggle to afford good taste.
+
+<div>
+<img src="https://cn.bing.com/th?id=OIP.nphwrRj0MMlbubfWmVaQigHaEK&pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+___
+
 
