@@ -10,19 +10,35 @@ tags: 英语学习
 ---
 # Note 
 ## Vocabulary (contains only the meaning that appeared in the context)
-- <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
-1. Donald Trump is a magnate in real estate.
+####<a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
+- 1.Donald Trump is a magnate in real estate.
 <div>
 <img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" height="300px" alt="图片说明" > </div>
 ___
-2. Elon Musk is a magnate in electric vehicle industry.
+- 2.Elon Musk is a magnate in electric vehicle industry.
 <div>
 <img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" height="200px" alt="图片说明" >
 </div>
 ____
-3. Bill Gates is one of the richest magnates in the world. 
+- 3.Bill Gates is one of the richest magnates in the world. 
 
 <div>
 <img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" height="100px" alt="图片说明" >
+</div>
+___
+### <a href="http://www.iciba.com/lush" target="_blank">lush</a> ：Lush fields or gardens have a lot of grass and plants.
+- The young man lives in a lush green countryside.
+<div>
+<img src="http://s0.geograph.org.uk/geophotos/05/17/50/5175037_5a913cf0.jpg" height="200px" alt="图片说明" > </div>
+___
+- A beam of sunlight shine into the lush forest.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.PisfD9ac4a1dUvAcRWVoWwAAAA&pid=Api&rs=1" height="200px" alt="图片说明" >
+</div>
+____
+- She likes walking in the lush garden when she feels blue. 
+
+<div>
+<img src="https://cn.bing.com/th/id/OIP.m9nxvssEdRFbsyAPhcTDLwHaFc?pid=Api&rs=1" height="200px" alt="图片说明" >
 </div>
 ___
