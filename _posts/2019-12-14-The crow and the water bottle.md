@@ -1,64 +1,45 @@
 ---
 layout: post
-title: 'The Crow and the Water Bottle'
-date: 2019-12-14
+title: 'Horse head statue returns home to China'
+date: 2019-12-17
 author: Xingder
-categories: 少儿英语
-tags: 英语
+categories: 深度学习
+tags: 深度学习
+
+
 ---
 
-# The Crow and the Water Bottle
+# Note 
+## Vocabulary (contains only the meaning that appeared in the context)
+- <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
+1. Donald Trump is a magnate in real estate.
+2. Elon Musk is a magnate in electric vehicle industry.
+3. Bill Gates is one of the richest magnates in the world. 
 
-![](https://cn.bing.com/th?id=OIP.kBsoav2FXKPP7m4q2UBcXwHaGy&pid=Api&rs=1)
-
-It was a scorching hot summer day. One crow was very thirsty. "I'm so thirsty." The thirsty crow roamed around looking for water. After flying for a long time, the crow found a water bottle in one of the farmer's yard. The crow was so happy that he was able to have a drink.
-<div mouseover="this.innerHTML='谢谢！'">click this to get translation</div>
-
-The crow put his beak into the bottle. However, because the bottle was so long, he was not able to reach the water. The crow was exhausted.
-
-'Should I go some other place for a drink?' He thought. However, because his wings were damage, he was not able to move. "What shall I do?”
-
-The crow flew round and round the farmer's yard, and thought. "Sure, that's what I will do." The crow had an idea.
-
-With all his strength, the crow started picking up stones. "One, two." He did this several times until the bottle was filled with stones. Then the crow drank a lot of water. Finally, the crow had enough strength to fly again.
-
-<script type="text/javascript">
- 
-    function display(id){  
-        var traget=document.getElementById(id);  
-        if(traget.style.display=="none"){  
-            traget.style.display="";  
-        }else{  
-            traget.style.display="none";  
-      }  
-   }  
-</script>
-
-
-<input type="submit" value="在线支付" οnclick="display('lb')">
-<div id="lb" style="display:none">
-	<font>div属性：style ="display:none" 默认隐藏div</font>
+<div>
+<img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" height="300px" alt="图片说明" > <img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" height="200px" alt="图片说明" ><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" height="100px" alt="图片说明" >
 </div>
 
 
-<script type="text/javascript">
-window.οnlοad=function(){
-  var obt=document.getElementById("bt");
-  var odiv=document.getElementById("thediv");
-  obt.οnclick=function(){
-    if(odiv.style.display=="none"){
-      odiv.style.display="block";
-      obt.value="隐藏模块";
-    }
-    else{
-      odiv.style.display="none";
-      obt.value="显示模块";
-    }
-  }
-}
-</script>
-<body>
-<input type="button" id="bt" value="显示模块"/>
-<div id="thediv" style="display:none">  1111</div>
+
+
+___
+- <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
+1. Donald Trump is a magnate in real estate.
+2. Elon Musk is a magnate in electric vehicle industry.
+3. Bill Gates is one of the richest magnates in the world. 
+
+
+
+
+
+
+<table><tr>
+<td><img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" width="100"/></td>
+<td><img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" width="150"/></td>
+<td><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" width="100"/></td>
+</tr></table>
+___
+
 
 
