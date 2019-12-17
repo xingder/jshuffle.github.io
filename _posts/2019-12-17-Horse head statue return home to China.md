@@ -18,7 +18,7 @@ tags: 英语学习
 2. Elon Musk is a magnate in electric vehicle industry.
 3. Bill Gates is one of the richest magnates in the world. 
 
-<div align="center">
+<div>
 <img src="https://c8.alamy.com/comp/CR4MH1/trump-donald-1461946-us-business-magnate-portrait-palm-beach-1992-CR4MH1.jpg" height="300px" alt="图片说明" > <img src="https://im.indiatimes.in/content/itimes/blog/2016/Jun/24/1466742532-elon-musk-all-you-need-to-know-about-this-business-magnate.jpg" height="200px" alt="图片说明" ><img src="http://joyofandroid.com/wp-content/uploads/2013/07/business-magnate-730x285.jpg" height="100px" alt="图片说明" >
 </div>
 
