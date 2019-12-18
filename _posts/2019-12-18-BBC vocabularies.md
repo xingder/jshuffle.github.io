@@ -3,7 +3,7 @@ layout: post
 title: 'BBC News vocabularies'
 date: 2019-12-17
 author: Xingder
-categories: BBC Vabularies
+categories: BBC-Vabularies
 tags: English Learning
 ---
 ___
