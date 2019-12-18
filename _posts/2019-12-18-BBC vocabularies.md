@@ -17,6 +17,8 @@ ____
 - 2.High in the agenda of both politics was the upcoming UN climate talks in Copenhagen，where China will play a make-or-break role.
 - 3.The meeting in the city of Tianjin was seen as a stepping stone to the major UN climate talks in Copenhagen later this year.
 ___
+1
+***
 
 
 
