@@ -8,6 +8,7 @@ tags: English Learning
 ---
 ___
 # political words
+___
 #### climate talks ：气候大会
 - 1.He urged US representatives at UN climate talks in Copenhagen to produce more than just hot air.
 <div>
