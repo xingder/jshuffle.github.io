@@ -3,7 +3,7 @@ layout: post
 title: 'BBC News vocabularies'
 date: 2019-12-17
 author: Xingder
-categories: BBC-Vabularies
+categories: BBC-Vacabularies
 tags: English Learning
 ---
 ___
@@ -21,11 +21,11 @@ ___
 - 1.The negotiation has overrun by two hours.
 - 2.The interview overran by 15 minutes.
 - 3.The speaker overran his time by two minutes.
-____
+___
 #### <a href="http://www.iciba.com/deadlock" target="_blank">deadlock</a> ：If a dispute or series of negotiations reaches deadlock, neither side is willing to give in at all and no agreement can be made.
 - 1.The negotiation reached a deadlock after two hours.
 <div>
 <img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/08/07/20170722-danilo-suarez-md.jpg?ext=.jpg" height="300px" alt="图片说明" > </div>
 ___
 - 2.We have to make a  minor compromise in order to break the deadlock.
-- 3.The summit is benn in deadlock = The summit comes to a deadlock
+- 3.The summit is been in deadlock = The summit comes to a deadlock
