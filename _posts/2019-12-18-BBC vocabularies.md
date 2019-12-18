@@ -7,7 +7,6 @@ categories: BBC-Vocabularies
 tags: English Learning
 ---
 # Polical words
-## Vocabulary (contains only the meaning that appeared in the context)
 
 ____
 #### climate talks ：气候大会
@@ -19,6 +18,12 @@ ____
 ___
 1
 ***
+____
+#### <a href="http://www.iciba.com/overrun" target="_blank">overrun</a> ：If a dispute or series of negotiations reaches deadlock, neither side is willing to give in at all and no agreement can be made.
+- 1.The negotiation has overrun by two hours.
+- 2.The interview overran by 15 minutes.
+- 3.The speaker overran his time by two minutes.
+___
 
 
 
