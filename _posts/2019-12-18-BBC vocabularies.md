@@ -8,6 +8,7 @@ tags: English Learning
 ---
 # Note 
 ## Vocabulary (contains only the meaning that appeared in the context)
+1
 ____
 #### <a href="http://www.iciba.com/magnate" target="_blank">magnate</a> ：A magnate is someone who has earn a lot of money from a particular business or industry
 - 1.Donald Trump is a magnate in real estate.
