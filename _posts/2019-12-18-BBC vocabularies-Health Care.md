@@ -3,7 +3,7 @@ layout: post
 title: 'BBC News-Polical words'
 date: 2019-12-17
 author: Xingder
-categories: BBC-Vocabularies-Health Care
+categories: BBC-Vocabularies-Health-Care
 tags: English Learning
 ---
 # Polical words
