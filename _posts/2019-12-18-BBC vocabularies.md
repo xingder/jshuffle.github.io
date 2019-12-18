@@ -25,3 +25,9 @@ ___
 <img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/08/07/20170722-danilo-suarez-md.jpg?ext=.jpg" height="300px" alt="图片说明" > </div>
 - 2.We have to make a  minor compromise in order to break the deadlock.
 - 3.The summit is been in deadlock = The summit comes to a deadlock
+#### <a href="http://www.iciba.com/deadlock" target="_blank">deadlock</a> ：If a dispute or series of negotiations reaches deadlock, neither side is willing to give in at all and no agreement can be made.
+- 1.The negotiation reached a deadlock after two hours.
+<div>
+<img src="https://sa.kapamilya.com/absnews/abscbnnews/media/2018/news/08/07/20170722-danilo-suarez-md.jpg?ext=.jpg" height="300px" alt="图片说明" > </div>
+- 2.We have to make a  minor compromise in order to break the deadlock.
+- 3.The summit is been in deadlock = The summit comes to a deadlock
