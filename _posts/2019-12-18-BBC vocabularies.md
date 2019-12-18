@@ -6,7 +6,7 @@ author: Xingder
 categories: BBC-Vocabularies
 tags: English Learning
 ---
-___
+
 # political words
 ___
 #### climate talks ：气候大会
