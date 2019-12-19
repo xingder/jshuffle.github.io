@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BBC News-Polical words'
+title: 'BBC vocabularies-Health Care'
 date: 2019-12-17
 author: Xingder
 categories: BBC-Vocabularies-Health-Care
