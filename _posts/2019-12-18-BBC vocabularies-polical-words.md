@@ -98,6 +98,56 @@ tags: English Learning
 </div>
 - 1.Chine held a minute silence in the city of Nanjing.
 <hr>
+#### <a href="http://www.iciba.com/extinguish" target="_blank">extinguish</a> ：If something extinguishes a feeling or idea, it destroys it.
+<div>
+<img src="http://images.all-free-download.com/images/graphiclarge/fire_extinguish_background_colored_tool_flame_icon_decoration_6828457.jpg" height="300px" alt="图片说明" > 
+</div>
+- 1.The firefighters tried to extinguish the flames.
+- 2.You can extinguish a nation，but not love of liberty.
+- 3.You can't extinguish my enthusiasm.
+<hr>
+#### <a href="http://www.iciba.com/asylum" target="_blank">asylum</a> ：If a government gives a person from another country asylum, they allow them to stay, usually because they are unable to return home safely for political reasons.
+<div>
+<img src="http://himg2.huanqiu.com/attachment2010/2018/0701/20180701045313642.jpg" height="300px" alt="图片说明" > 
+</div>
+- 1.He apply for asylum in 2006 after fleeing the police back home.
+- 2.The right to asylum is under assault.
+- 3.France has agreed to his request for political asylum.
+<hr>
+#### <a href="http://www.iciba.com/sabotage" target="_blank">sabotage</a> ：If someone sabotages a plan or a meeting, they deliberately prevent it from being successful.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.O3bIF4oYUjkITf00AvTB4wHaEL&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.The chairman of South Korea electronic giant Sumsang has been sentenceed to 18 months for sabotaging labor union activities.
+- 2.The chancellor of this universitie try to sabotage the election.
+- 3.They try to sabotage my birthday party by getting drunk.
+<hr>
+#### <a href="http://www.iciba.com/postpone" target="_blank">postpone</a> ：If you postpone an event, you delay it or arrange for it to take place at a later time than was originally planned.
+<div>
+<img src="https://richmondteaparty.com/wp-content/uploads/2015/11/Fotolia_79374183_S-WEB.jpg" height="300px" alt="图片说明" > 
+</div>
+- 1.The European space agency has postponed the launch of its first mission.
+- 2.we have to postpone the meeting.
+- 3.He decided to postpone the expedition until the following day.
+<hr>
+#### <a href="http://www.iciba.com/hitch" target="_blank">hitch</a> ：A hitch is a slight problem or difficulty which causes a short delay.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.fpxPrgsL_V7m4bmyw2ZDOgHaFj&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.They delayed the mission because of a late technical hitch affecting one of its boosters.
+- 2.It was done without a hitch.
+- 3.There is a hitch somewhere.
+<hr>
+#### <a href="http://www.iciba.com/life sentence" target="_blank">life sentence</a> ：If someone receives a life sentence, they are sentenced to stay in prison for the rest of their life, or for a very long period of time.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.cULrpXQFnDN_OKDw3bvK3gHaEQ&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.He received a life sentence in 2005 for killing five women.
+- 2.He was given life sentence.
+- 3.He is serving a life sentence for the attempted attack.
+<hr>
+
+
 
 
 
