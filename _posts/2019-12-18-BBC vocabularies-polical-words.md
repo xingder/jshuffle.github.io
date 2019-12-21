@@ -146,6 +146,64 @@ tags: English Learning
 - 2.He was given life sentence.
 - 3.He is serving a life sentence for the attempted attack.
 <hr>
+#### <a href="http://www.iciba.com/provoke" target="_blank">provoke</a> ：If something provokes a reaction, it causes it.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.6_Zx9cRuWMCCk_yph2P9rQHaE4&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.India supreme cour has refused to suspend the citizenship law that  provoked protests across the country.
+- 2.His election success has provoked a shocked reaction.
+- 3.The destruction of mosque has provoked anger throughout the Muslim world.
+<hr>
+#### <a href="http://www.iciba.com/petition" target="_blank">petition</a> ：A petition is a formal request made to a court of law for some legal action to be taken.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.DsNnVywjqvNaBne0tHnqfwHaE7&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.The India home minister is considering a number of petitions against the law.
+- 2.The court rejected their petition.
+- 3.She has filed a petition for divorce.
+<hr>
+#### <a href="http://www.iciba.com/unrest" target="_blank">unrest</a> ：If there is unrest in a particular place or society, people are expressing anger and dissatisfaction about something, often by demonstrating or rioting.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.goPbDziXIiNyJ4NdKrr2zwHaFE&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.The mayor has promised to implement the law despite the unrest.
+- 2.There is growing unrest among students in several major cities.
+- 3.Because China could not afford any more unrest.
+<hr>
+#### <a href="http://www.iciba.com/sweltering" target="_blank">sweltering</a> ：If you describe the weather as sweltering, you mean that it is extremely hot and makes you feel uncomfortable.
+<div>
+<img src="https://cdn20.patchcdn.com/users/22880692/20170616/013535/styles/T800x600/public/article_images/heat_wave_via_shutter-1497633808-4790.jpg" height="300px" alt="图片说明" > 
+</div>
+- 1.Australia is sweltering under temperature record.
+- 2.We were sweltering at the beach.
+- 3.The heat is sweltering.
+<hr>
+#### <a href="http://www.iciba.com/phase out" target="_blank">phase out</a> ：If something is phased out, people gradually stop using it.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.1WgKZO544aHx25VpiwVrXgHaHn&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.We need to phase out coal mining in Australia.
+- 2.I phase out my computer.
+- 3.This system should be phased out.
+<hr>
+#### <a href="http://www.iciba.com/devastation out" target="_blank">devastation</a> ：Devastation is severe and widespread destruction or damage.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.1WgKZO544aHx25VpiwVrXgHaHn&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.They struggled to cope with devastation caused by riots，cyclones and earthquake. 
+- 2.A huge bomb blast brought chaos and devastation to centre of the city.
+- 3.There was devastation on every side.
+#### <a href="http://www.iciba.com/acronym out" target="_blank">acronym</a> ：An acronym is a word composed of the first letters of the words in a phrase, especially when this is used as a name. An example of an acronym is NATO which is made up of the first letters of the 'North Atlantic Treaty Organization'.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.IgeCLyM6FSA6mpJAbgxWSwHaD4&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.AIDS is an acronym for "Acquired Immune Deficiency Syndrome".
+- 2.The name is not an acronym.	
+- 3.Sonar is an acronym for sound navigation ranging.
+
+
+
+
 
 
 
