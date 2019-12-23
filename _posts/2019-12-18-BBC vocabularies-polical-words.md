@@ -200,6 +200,44 @@ tags: English Learning
 - 1.AIDS is an acronym for "Acquired Immune Deficiency Syndrome".
 - 2.The name is not an acronym.	
 - 3.Sonar is an acronym for sound navigation ranging.
+#### <a href="http://www.iciba.com/prosecutor" target="_blank">prosecutor</a> ：In some countries, a prosecutor is a lawyer or official who brings charges against someone or tries to prove in a trial that they are guilty.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.-4uZqTEZcWXr5frg3OYHbQHaE7&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.I am a prosecutor of International criminal court.
+- 2.The defender argued down the prosecutor at the court.
+- 3.The prosecutor charged treason against the prisoner.
+#### <a href="http://www.iciba.com/jurisdiction" target="_blank">jurisdiction</a> ：Jurisdiction is the power that a court of law or an official has to carry out legal judgments or to enforce laws.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.-4uZqTEZcWXr5frg3OYHbQHaE7&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.she's asked the court to confirme that the cout has jurisdiction there.
+- 2.Changzhou is under the jurisdiction of Jiangsu Province.
+- 3.The island has always been under Chinese jurisdiction.This is known to all.
+#### <a href="http://www.iciba.com/sack" target="_blank">sack</a> ：If your employers sack you, they tell you that you can no longer work for them because you have done something that they did not like or because your work was not good enough.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.JpmCpIK6rz_WVUwqWaKGQAHaEU&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.Science teacher James Wood was sacked for slapping a schoolboy.
+- 2.The poor old sod got the sack yesterday.
+- 3.If you are late again,you will get the sack.
+#### <a href="http://www.iciba.com/demote" target="_blank">demote</a> ：If someone demotes you, they give you a lower rank or a less important position than you already have, often as a punishment.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.L616Ju_7fS4QE09EU5DbGAHaF5&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.The judge was demoted for dissent.
+- 2.I should demote you frome senior minister to elder.
+- 3.Why did mayor demote the official.
+#### <a href="http://www.iciba.com/rebellion" target="_blank">rebellion</a> ：A rebellion is a violent organized action by a large group of people who are trying to change their country's political system.
+<div>
+<img src="https://cn.bing.com/th?id=OIP.F3cFrUQgrrkVVGViMIc4UgHaGG&pid=Api&rs=1" height="300px" alt="图片说明" > 
+</div>
+- 1.It hopes it will calm a two-year separatist rebellion.
+- 2.Too rigid parental control fosters rebellion in child.
+- 3.There would be a rebellion in the army.
+
+
+
 
 
 
