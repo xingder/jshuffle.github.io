@@ -235,6 +235,25 @@ tags: English Learning
 - 1.It hopes it will calm a two-year separatist rebellion.
 - 2.Too rigid parental control fosters rebellion in child.
 - 3.There would be a rebellion in the army.
+#### <a href="http://www.iciba.com/lay bare" target="_blank">lay bare</a> ：to reveal or uncover private information or feelings
+- 1.The dispute over this issue is laying bare tensions across Atlantic and within Europe
+- 2.The book is an attempt to lay bare the secret of this very powerful political family》
+- 3.Large bank credit department's public figures lay bare the truth the secret.	
+#### <a href="http://www.iciba.com/indignant" target="_blank">indignant</a> ：If you are indignant, you are shocked and angry, because you think that something is unjust or unfair.
+<div>
+<img src="https://ae01.alicdn.com/kf/HTB1fWF.RpXXXXbpXXXXq6xXFXXXx/Indignant-PigHead-maske.jpg_640x640.jpg" height="300px" alt="图片说明" > 
+</div>
+- 1.Russian foreign ministry spokeswoman took a indignant line.
+- 2.she was very indignant at the way she had been treated
+- 3.I was indignant at their mean actions.	
+#### <a href="http://www.iciba.com/ward off" target="_blank">lay bare</a> ：to avoid being hit by (something)
+- 1.His aim is to ward off competition for American liquefied natural gas.
+- 2.He managed to free one hand to ward off a punch.
+- 3.Its ability to ward off disasters is incredible.	
+#### <a href="http://www.iciba.com/high profile" target="_blank">high profile</a> ：used to describe the amount of attention that someone or something is given
+- 1.This is one of a number of high-profile blasphemy cases.
+- 2.The actor's high help profile promote the movie.
+- 3.The star has a high profile in Britain.	
 
 
 
